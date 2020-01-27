@@ -1,0 +1,2 @@
+The purpose of this project is using the .net framework import data sets from SQL and display them on an interface.
+Allows for slight alteration to the SQL database via the interface as well.

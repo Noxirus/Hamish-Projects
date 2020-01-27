@@ -1,0 +1,10 @@
+C:\Users\510299\Desktop\HamishLab2\CustomerBillProject\ClientClassLib\bin\Debug\ClientClassLib.dll
+C:\Users\510299\Desktop\HamishLab2\CustomerBillProject\ClientClassLib\bin\Debug\ClientClassLib.pdb
+C:\Users\510299\Desktop\HamishLab2\CustomerBillProject\ClientClassLib\obj\Debug\ClientClassLib.csprojAssemblyReference.cache
+C:\Users\510299\Desktop\HamishLab2\CustomerBillProject\ClientClassLib\obj\Debug\ClientClassLib.dll
+C:\Users\510299\Desktop\HamishLab2\CustomerBillProject\ClientClassLib\obj\Debug\ClientClassLib.pdb
+C:\Users\510299\Documents\GitHub\Hamish-Projects\CustomerBillProject\ClientClassLib\bin\Debug\ClientClassLib.dll
+C:\Users\510299\Documents\GitHub\Hamish-Projects\CustomerBillProject\ClientClassLib\bin\Debug\ClientClassLib.pdb
+C:\Users\510299\Documents\GitHub\Hamish-Projects\CustomerBillProject\ClientClassLib\obj\Debug\ClientClassLib.csprojAssemblyReference.cache
+C:\Users\510299\Documents\GitHub\Hamish-Projects\CustomerBillProject\ClientClassLib\obj\Debug\ClientClassLib.dll
+C:\Users\510299\Documents\GitHub\Hamish-Projects\CustomerBillProject\ClientClassLib\obj\Debug\ClientClassLib.pdb

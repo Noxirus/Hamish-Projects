@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Contact Us</title>
+  <!-- bootstrap and CSS stylesheet-->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <script>
+	  /* Array for rotating images depending on mouseover */
+  var myImages = new Array();
+			myImages[0] = new Image(); //image class constructor
+			myImages[0].src = "Images/Castle.jpg";
+			myImages[1] = new Image();
+			myImages[1].src = "Images/Fountain.jpg";
+			myImages[2] = new Image();
+			myImages[2].src = "Images/Gundam.jpg";
+			myImages[3] = new Image();
+			myImages[3].src = "Images/Kyoto.jpg";
+			myImages[4] = new Image();
+			myImages[4].src = "Images/TrafalgarSq.jpg";
+				
+				function swapImage (index)
+				{
+					var myImg = document.getElementById("mainImage");
+					myImg.src = myImages[index].src;
+					
+				}
+  </script>
+  <link rel="stylesheet" href="NewStyles.css"/>
+</head>
+<body>
+
+<!-- Header -->
+<div class=" container-fluid text-center see-through" style="margin-bottom:0; padding:10px">
+  <div class="row">
+	  <div class="col-8 my-auto">
+		<h1>Learn more about us</h1>
+		<p>Our proud professionals are here to assist you</p> 
+	  </div>
+	  <div class="col-3 float-left">
+		<img src="Images/Travel.jpg" />
+	  </div>
+  </div>
+</div>
+
+<!--Navigation Bar -->
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+  <a class="navbar-brand" href="NewIndex.html">Explore</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="collapsibleNavbar">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="NewIndex.html">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="NewRegister.html">Register Now</a>
+      </li>  
+    </ul>
+  </div>  
+</nav>
+
+<!-- mouseover content-->
+<div class="container" style="margin-top:30px; margin-bottom:50px">
+  <div class="row see-through">
+    <div class="col-sm-7" style="padding:40px">
+      <h2>Our Travel Team</h2>
+	  <h5>Hover over the contact information to see their picture</h5>
+			<div class="row" id="advisorInfo">
+				<div class="col-3" onmouseover="swapImage(0)">Main Line
+					<li>Phone# (403) 555-4512</li>
+					<li>Address: 512 25th Ave SW</li>
+					<li>Calgary AB Canada</li>
+				</div>
+				<div class="col-3" onmouseover="swapImage(1)">24 Hour Contact
+					<li>Phone# 1-800-555-3417</li>
+				</div>
+				<div class="col-3" onmouseover="swapImage(2)">Yoshiba Sama
+					<li>Manager</li>
+					<li>Phone# (587) 555-1254</li>
+				</div>
+				<div class="col-3" onmouseover="swapImage(3)">Traves Vacay
+					<li>Agent</li>
+					<li>Phone# (403) 555-5863</li>
+				</div>
+			</div>
+	</div>
+	<div class="col-sm-5">
+      <h2>Travel Advisor</h2>
+      <div class="fakeimg" style="padding: 10px; margin-bottom:20px" ><img id="mainImage" src="Images/Castle.jpg" style="width:100%; height:44.5vh"/></div>
+    </div>
+  </div>
+</div>
+
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <p>All Rights Reserved &copy; Travels R Us<p/>
+</div>
+
+</body>
+</html>

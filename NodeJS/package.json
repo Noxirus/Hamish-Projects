@@ -1,0 +1,23 @@
+{
+  "name": "nodeassign",
+  "version": "1.0.0",
+  "description": "Node Personal Project",
+  "main": "Index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon Index.js"
+  },
+  "author": "Hamish Harrison",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "moment": "^2.24.0",
+    "mongodb": "^3.3.5",
+    "monk": "^7.1.1"
+  }
+}

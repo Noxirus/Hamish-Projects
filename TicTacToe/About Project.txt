@@ -1,0 +1,4 @@
+The purpose of this project is to create a game of tic tac toe. Each player takes turns selecting their square for X or O and they attempt
+to draw a line of 3.
+
+The program is able to reset and tally up overall wins for each side, as well as cats games.

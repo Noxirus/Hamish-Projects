@@ -1,0 +1,2 @@
+The purpose of this project is to connect directly to a SQL database using a connection string. This allows for multiple layers
+of communication and overall more control over what information you are requesting and altering from the SQL database.

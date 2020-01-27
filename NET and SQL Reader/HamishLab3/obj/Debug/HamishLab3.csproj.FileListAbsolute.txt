@@ -1,0 +1,18 @@
+C:\Users\510299\source\repos\HamishLab3\HamishLab3\bin\Debug\HamishLab3.exe.config
+C:\Users\510299\source\repos\HamishLab3\HamishLab3\bin\Debug\HamishLab3.exe
+C:\Users\510299\source\repos\HamishLab3\HamishLab3\bin\Debug\HamishLab3.pdb
+C:\Users\510299\source\repos\HamishLab3\HamishLab3\obj\Debug\HamishLab3.csprojAssemblyReference.cache
+C:\Users\510299\source\repos\HamishLab3\HamishLab3\obj\Debug\HamishLab3.Form1.resources
+C:\Users\510299\source\repos\HamishLab3\HamishLab3\obj\Debug\HamishLab3.Properties.Resources.resources
+C:\Users\510299\source\repos\HamishLab3\HamishLab3\obj\Debug\HamishLab3.csproj.GenerateResource.cache
+C:\Users\510299\source\repos\HamishLab3\HamishLab3\obj\Debug\HamishLab3.exe
+C:\Users\510299\source\repos\HamishLab3\HamishLab3\obj\Debug\HamishLab3.pdb
+C:\Users\510299\Documents\GitHub\Hamish-Projects\NET and SQL Reader\HamishLab3\bin\Debug\HamishLab3.exe.config
+C:\Users\510299\Documents\GitHub\Hamish-Projects\NET and SQL Reader\HamishLab3\bin\Debug\HamishLab3.exe
+C:\Users\510299\Documents\GitHub\Hamish-Projects\NET and SQL Reader\HamishLab3\bin\Debug\HamishLab3.pdb
+C:\Users\510299\Documents\GitHub\Hamish-Projects\NET and SQL Reader\HamishLab3\obj\Debug\HamishLab3.csprojAssemblyReference.cache
+C:\Users\510299\Documents\GitHub\Hamish-Projects\NET and SQL Reader\HamishLab3\obj\Debug\HamishLab3.Form1.resources
+C:\Users\510299\Documents\GitHub\Hamish-Projects\NET and SQL Reader\HamishLab3\obj\Debug\HamishLab3.Properties.Resources.resources
+C:\Users\510299\Documents\GitHub\Hamish-Projects\NET and SQL Reader\HamishLab3\obj\Debug\HamishLab3.csproj.GenerateResource.cache
+C:\Users\510299\Documents\GitHub\Hamish-Projects\NET and SQL Reader\HamishLab3\obj\Debug\HamishLab3.exe
+C:\Users\510299\Documents\GitHub\Hamish-Projects\NET and SQL Reader\HamishLab3\obj\Debug\HamishLab3.pdb

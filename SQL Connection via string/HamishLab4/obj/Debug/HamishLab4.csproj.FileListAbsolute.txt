@@ -1,0 +1,10 @@
+C:\Users\510299\source\repos\HamishLab4\HamishLab4\bin\Debug\HamishLab4.exe.config
+C:\Users\510299\source\repos\HamishLab4\HamishLab4\bin\Debug\HamishLab4.exe
+C:\Users\510299\source\repos\HamishLab4\HamishLab4\bin\Debug\HamishLab4.pdb
+C:\Users\510299\source\repos\HamishLab4\HamishLab4\obj\Debug\HamishLab4.csprojAssemblyReference.cache
+C:\Users\510299\source\repos\HamishLab4\HamishLab4\obj\Debug\HamishLab4.frmDataView.resources
+C:\Users\510299\source\repos\HamishLab4\HamishLab4\obj\Debug\HamishLab4.Properties.Resources.resources
+C:\Users\510299\source\repos\HamishLab4\HamishLab4\obj\Debug\HamishLab4.csproj.GenerateResource.cache
+C:\Users\510299\source\repos\HamishLab4\HamishLab4\obj\Debug\HamishLab4.exe
+C:\Users\510299\source\repos\HamishLab4\HamishLab4\obj\Debug\HamishLab4.pdb
+C:\Users\510299\source\repos\HamishLab4\HamishLab4\obj\Debug\HamishLab4.frmModifyShipped.resources

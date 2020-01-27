@@ -1,0 +1,1 @@
+The purpose of this project is to create a website using HTML and CSS to ensure an aesthetically pleasing site that is easy to navigate.

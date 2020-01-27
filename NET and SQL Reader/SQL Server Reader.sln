@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HamishLab3", "HamishLab3\HamishLab3.csproj", "{278BC394-37CD-47D9-88C0-A3EE2D9B81CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{278BC394-37CD-47D9-88C0-A3EE2D9B81CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{278BC394-37CD-47D9-88C0-A3EE2D9B81CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{278BC394-37CD-47D9-88C0-A3EE2D9B81CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{278BC394-37CD-47D9-88C0-A3EE2D9B81CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02DF9177-D33D-46D8-BBC7-47E080D8E672}
+	EndGlobalSection
+EndGlobal

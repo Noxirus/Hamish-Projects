@@ -1,0 +1,5 @@
+Fred,1,r,32.000
+Dana,2,c,60
+Ashley,3,c,78.000
+George,4,i,116
+Nathan,5,i,162.500

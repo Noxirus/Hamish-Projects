@@ -1,0 +1,26 @@
+body {
+	background-image: url(Images/beachback.jpg);
+
+}
+
+.see-through {
+	background: rgba(255, 255, 255, 0.7);
+}
+
+#carouselHead {
+			position:absolute;
+			top: 20%;
+			right: 7%;
+			padding: 15px;
+	}
+#carouselSecond {
+			position:absolute;
+			bottom: 20%;
+			left: 7%;
+			padding: 15px;
+	}
+	
+#advisorInfo {
+	background-color:white;
+
+}

@@ -1,0 +1,4 @@
+The purpose of this project is to create a website that runs on a server. By communicating through Node JS it is able to receive 
+requests from individuals and send back their requests. If the request is incorrect it will return an error message as well.
+
+The server will return pictures and pages for the client.

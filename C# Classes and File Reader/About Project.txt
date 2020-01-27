@@ -1,0 +1,6 @@
+The purpose of this project is to create a series of inherited classes within a class library. Using these related classes (the customer)
+you are able to run the same method on the create object and it will run the appropriate calculation based on client type.
+
+The objects are then stored on a txt file and read the next time the file loads.
+
+Also equations are done to tally up totals for each customer time and overall statistics.

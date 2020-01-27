@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Function Test</title>
+		<script>
+		let myGreetings = [];
+		myGreetings[0] = "Hello!";
+		myGreetings[1] = "Konnichiwa";
+		myGreetings[2] = "Guten Tag";
+		myGreetings[3] = "How are you today?";
+		myGreetings[4] = "Welcome to the site of your dreams!"
+
+		function randGreet () {
+			var randNum = Math.floor((Math.random()*5));
+			document.write(myGreetings[randNum]);
+		}
+	
+		
+		</script>
+	
+	</head>
+	<body>
+		<script>
+			randGreet();
+		</script>
+	
+	</body>
+
+
+</html>
