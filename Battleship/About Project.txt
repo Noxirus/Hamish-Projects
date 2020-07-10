@@ -1,5 +1,0 @@
-The purpose of this project is to simulate the game battleship against the computer.
-The computer will randomly select a series of places to put ships on a 10 x 10 grid. It will not overlap the ships nor will it allow them
-to be placed out of bounds
-
-It is then your task to input the X and Y coordinates to try and find the ships.
