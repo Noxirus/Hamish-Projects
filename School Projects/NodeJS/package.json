@@ -16,7 +16,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "ejs": "^3.0.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mongodb": "^3.3.5",
     "monk": "^7.1.1"
   }
